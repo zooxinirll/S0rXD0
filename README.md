@@ -17,9 +17,9 @@ WebClone is a Python-based tool designed for downloading and saving entire websi
 
 To install the required dependencies, you can use the following commands:
 
-* git clone https://github.com/YourUsername/webclone.git
+* git clone https://github.com/zooxinirll/webclone
  
-*cd webclone
+* cd webclone
 
 # Install dependencies
 
