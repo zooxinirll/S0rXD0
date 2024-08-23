@@ -1,12 +1,12 @@
-# Creating the README.md file with the provided content
+# Creating a more professional and advanced README.md file
 
 
 
-readme_content = """
+advanced_readme_content = """
 
 <h1 align="center">S0rXD0</h1>
 
-<h3 align="center">Author: LocalHost.07</h3>
+<h3 align="center">A Python Tool for Comprehensive Website Archiving</h3>
 
 
 
@@ -17,6 +17,8 @@ readme_content = """
   <img src="https://img.shields.io/github/license/zooxinirll/S0rXD0?style=for-the-badge" />
 
   <img src="https://img.shields.io/github/stars/zooxinirll/S0rXD0?style=for-the-badge&logo=github" />
+
+  <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge" />
 
 </p>
 
@@ -34,31 +36,11 @@ readme_content = """
 
 
 
-### 📄 Tool Description
+## 🛠️ Overview
 
 
 
-**S0rXD0** is a Python-based tool designed for downloading and saving entire websites. It recursively follows links within the same domain, saving each page's content locally in an organized directory structure.
-
-
-
----
-
-
-
-### ✨ Features
-
-- 🎨 **Custom Banner Display**
-
-- 📁 **Saves Page Content Based on URL Structure**
-
-- 🔗 **Recursively Follows Internal Links**
-
-- 📊 **Progress Display Using `tqdm`**
-
-- 🔍 **HTML Parsing with `BeautifulSoup`**
-
-- 🕸️ **Session Handling with `requests.Session`**
+**S0rXD0** is a powerful Python tool that simplifies the process of downloading and saving entire websites. Designed for researchers, developers, and cybersecurity enthusiasts, S0rXD0 offers seamless archiving of web pages by recursively following links and organizing content based on the URL structure.
 
 
 
@@ -66,11 +48,33 @@ readme_content = """
 
 
 
-### ⚙️ Installation
+## ✨ Features
 
 
 
-To install the required dependencies, use the following commands:
+- **Custom Banner Display**: Personalized and professional interface.
+
+- **URL-Based Directory Structure**: Saves content in an organized manner.
+
+- **Recursive Crawling**: Automatically follows internal links for comprehensive site archiving.
+
+- **Progress Display**: Visual feedback during the download process using `tqdm`.
+
+- **HTML Parsing**: Efficiently handles web content with `BeautifulSoup`.
+
+- **Session Handling**: Manages web sessions using `requests.Session` for persistent connections.
+
+
+
+---
+
+
+
+## 📦 Installation
+
+
+
+Follow these steps to install the required dependencies and get started:
 
 
 
