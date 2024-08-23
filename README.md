@@ -76,7 +76,8 @@ Here's a sneak peek of the tool in action:
 <p align="center">
   <img src="https://media.giphy.com/media/8kdugL9NQxzOQ/giphy.gif" width="600px" alt="S0rXD0 Preview" />
 </p>
-☕ Support My Work
+
+### ☕ Support My Work
 If you appreciate the effort and find this tool useful, consider supporting my work:
 
 <p align="center">
@@ -84,14 +85,6 @@ If you appreciate the effort and find this tool useful, consider supporting my w
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
-📞 Contact
-Feel free to reach out for any questions or collaboration opportunities:
-
-<p align="center">
-  <a href="https://instagram.com/h3r.10c4lh0st.07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
 </p>
 ⚠️ Disclaimer
 This tool is intended for educational and research purposes only. The author is not responsible for any misuse of this tool. Please obtain proper authorization before downloading website content, and always comply with copyright laws.
