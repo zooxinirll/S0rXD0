@@ -68,7 +68,6 @@ Author: LocalHost.07
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
 
 ⚠️ Disclaimer
 This tool is intended for educational and research purposes only. The author is not responsible for any misuse of this tool. Please obtain proper authorization before downloading website content, and always comply with copyright laws.
