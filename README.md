@@ -91,11 +91,9 @@ Feel free to reach out for any questions or collaboration opportunities:
   <a href="https://instagram.com/h3r.10c4lh0st.07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  
 </p>
 ⚠️ Disclaimer
 This tool is intended for educational and research purposes only. The author is not responsible for any misuse of this tool. Please obtain proper authorization before downloading website content, and always comply with copyright laws.
 
 <h6 align="center">© 2024 LocalHost.07</h6>
-# Disclaimer 
-
-This tool is intended for educational and research purposes only. The author is not responsible for any misuse of this tool. Always obtain permission from the website owner before downloading their content. Use responsibly and respect copyright laws.
