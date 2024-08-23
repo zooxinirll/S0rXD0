@@ -1,5 +1,3 @@
-
-
 <h1 align="center">S0rXD0</h1>
 
 <h3 align="center">A Python Tool for Comprehensive Website Archiving</h3>
@@ -27,67 +25,48 @@
 </p>
 
 
+## Author: LocalHost.07
 
----
+### Tool Description
+S0rXD0 is a Python-based tool designed for downloading and saving entire websites. It recursively follows links within the same domain, saving each page's content locally in an organized directory structure.
 
+### Features
+- Custom banner display
+- Saves page content based on URL structure
+- Recursively follows internal links
+- Progress display using `tqdm`
+- Uses `BeautifulSoup` for HTML parsing
+- Sessions handled by `requests.Session`
 
+### Installation
 
-## 🛠️ Overview
+To install the required dependencies, you can use the following commands:
 
-
-
-**S0rXD0** is a powerful Python tool that simplifies the process of downloading and saving entire websites. Designed for researchers, developers, and cybersecurity enthusiasts, S0rXD0 offers seamless archiving of web pages by recursively following links and organizing content based on the URL structure.
-
-
-
----
-
-
-
-## ✨ Features
-
-
-
-- **Custom Banner Display**: Personalized and professional interface.
-
-- **URL-Based Directory Structure**: Saves content in an organized manner.
-
-- **Recursive Crawling**: Automatically follows internal links for comprehensive site archiving.
-
-- **Progress Display**: Visual feedback during the download process using `tqdm`.
-
-- **HTML Parsing**: Efficiently handles web content with `BeautifulSoup`.
-
-- **Session Handling**: Manages web sessions using `requests.Session` for persistent connections.
-
-
-
----
-
-
-
-## 📦 Installation
-
-
-
-Follow these steps to install the required dependencies and get started:
-
-
-
-```bash
-
-# Clone the repository
-
-git clone https://github.com/zooxinirll/S0rXD0
-
-
-
-# Navigate to the project directory
-
-cd S0rXD0
-
-
+* git clone https://github.com/zooxinirll/S0rXD0
+ 
+* cd S0rXD0
 
 # Install dependencies
 
-pip install -r requirements.txt
+* pip install -r requirements.txt
+
+# Usage
+To use S0rXD0, simply run the script and enter the website URL when prompted:
+
+* python main.py
+
+You will be prompted to enter the URL of the website you wish to download. The tool will then proceed to download the website and save its contents in the output directory.
+
+# Author 
+
+Author: LocalHost.07
+
+# Contact 
+
+instagram : @h3r.10c4lh0st.07 , @zooxinirll
+
+Telegram : @zooxinirll
+
+# Disclaimer 
+
+This tool is intended for educational and research purposes only. The author is not responsible for any misuse of this tool. Always obtain permission from the website owner before downloading their content. Use responsibly and respect copyright laws.
