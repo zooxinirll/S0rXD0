@@ -61,11 +61,15 @@ You will be prompted to enter the URL of the website you wish to download. The t
 
 Author: LocalHost.07
 
-# Contact 
+### 🌐 Connect With Me
 
-instagram : @h3r.10c4lh0st.07 , @zooxinirll
+<p align="center">
+  <a href="https://www.instagram.com/h3r.10c4lh0st.07?igsh=MTRqcGNsdmN3a2FyaA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-Telegram : @zooxinirll
+---
 
 # Disclaimer 
 
