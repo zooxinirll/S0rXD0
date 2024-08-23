@@ -1,8 +1,3 @@
-# Creating a more professional and advanced README.md file
-
-
-
-advanced_readme_content = """
 
 <h1 align="center">S0rXD0</h1>
 
