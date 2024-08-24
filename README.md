@@ -52,7 +52,6 @@ S0rXD0 is a Python-based tool designed for downloading and saving entire website
     
 3.  **To install the required dependencies, you can use the following commands**:
 
-   ```bash
    pip install requirements.txt
 
 # Usage
