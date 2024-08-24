@@ -44,8 +44,9 @@ To install the required dependencies, you can use the following commands:
 
   ```bash
   git clone https://github.com/zooxinirll/S0rXD0
-  
-* cd S0rXD0
+
+  ```bash
+  cd S0rXD0
 
 # Install dependencies
 
