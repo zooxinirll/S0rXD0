@@ -8,7 +8,10 @@
 
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
 
-  <img src="https://img.shields.io/github/license/zooxinirll/S0rXD0?style=for-the-badge" />
+  <a href="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License Badge" />
+</a>
+
 
   <img src="https://img.shields.io/github/stars/zooxinirll/S0rXD0?style=for-the-badge&logo=github" />
 
