@@ -40,13 +40,22 @@ S0rXD0 is a Python-based tool designed for downloading and saving entire website
 
 ### Installation
 
+```bash
+   pip install requirements.txt
+   
+2. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/zooxinirll/S0rXD0.git
+
+4. **Change Directory** :
+
+    ```bash
+    cd S0rXD0
+
+
 To install the required dependencies, you can use the following commands:
 
-  ```bash
-  git clone https://github.com/zooxinirll/S0rXD0
-
-  ```bash
-  cd S0rXD0
 
 # Install dependencies
 
