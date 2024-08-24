@@ -57,8 +57,8 @@ S0rXD0 is a Python-based tool designed for downloading and saving entire website
 
 # Usage
 To use S0rXD0, simply run the script and enter the website URL when prompted:
-
-* python main.py
+    ```bash
+    python main.py
 
 You will be prompted to enter the URL of the website you wish to download. The tool will then proceed to download the website and save its contents in the output directory.
 
