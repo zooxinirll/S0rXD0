@@ -40,7 +40,9 @@ S0rXD0 is a Python-based tool designed for downloading and saving entire website
 
 ### Installation
 
-```bash
+1. **To install the required dependencies, you can use the following commands**:
+
+   ```bash
    pip install requirements.txt
    
 2. **Clone the Repository**:
@@ -54,7 +56,7 @@ S0rXD0 is a Python-based tool designed for downloading and saving entire website
     cd S0rXD0
 
 
-To install the required dependencies, you can use the following commands:
+
 
 
 # Install dependencies
